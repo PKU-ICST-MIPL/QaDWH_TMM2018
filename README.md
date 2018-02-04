@@ -1,7 +1,7 @@
 # Introduction
 This is the source code of our TMM 2018 paper "Query-adaptive Image Retrieval by Deep Weighted Hashing", Please cite the following paper if you use our code.
 
-Jian Zhang and Yuxin Peng, "Query-adaptive Image Retrieval by Deep Weighted Hashing", IEEE Transactions on Multimedia (TMM), 2018.
+Jian Zhang and Yuxin Peng, "Query-adaptive Image Retrieval by Deep Weighted Hashing", IEEE Transactions on Multimedia (TMM), 2018.[[arXiv]](https://arxiv.org/abs/1612.02541)
 
 # Dependency
 Our code is based on early version of [Caffe](https://github.com/BVLC/caffe), all the dependencies are the same as Caffe.
