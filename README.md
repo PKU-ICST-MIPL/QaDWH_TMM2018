@@ -1,5 +1,5 @@
 # Introduction
-This is the source code of our TMM paper "Query-adaptive Image Retrieval by Deep Weighted Hashing", Please cite the following paper if you use our code.
+This is the source code of our TMM 2018 paper "Query-adaptive Image Retrieval by Deep Weighted Hashing", Please cite the following paper if you use our code.
 
 Jian Zhang and Yuxin Peng, "Query-adaptive Image Retrieval by Deep Weighted Hashing", IEEE Transactions on Multimedia (TMM), 2018.
 
