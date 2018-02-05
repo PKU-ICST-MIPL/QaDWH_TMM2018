@@ -21,3 +21,4 @@ Here we use MIRFlickr dataset for an example, under "data/flickr25k" folder, the
 5. Extract the learned weights for hash functions: example/qadwh/extract_param.sh. You should change parameters in the script such as model locations etc.
 
 For more information, please refer to our [TMM paper](https://arxiv.org/abs/1612.02541)
+
