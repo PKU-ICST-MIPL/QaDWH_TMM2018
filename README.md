@@ -20,5 +20,7 @@ Here we use MIRFlickr dataset for an example, under "data/flickr25k" folder, the
 4. Generate hash codes for testing set: example/qadwh/extratfea_txt_flickr25k_12bit.sh. You can adjust script to change hash code saving location GPU id etc.
 5. Extract the learned weights for hash functions: example/qadwh/extract_param.sh. You should change parameters in the script such as model locations etc.
 
-For more information, please refer to our [TMM paper](https://arxiv.org/abs/1612.02541)
+For more information, please refer to our [TMM paper](https://arxiv.org/abs/1612.02541).
+
+Welcome to our [Laboratory Homepage](http://www.icst.pku.edu.cn/mipl) for more information about our papers, source codes, and datasets.
 
